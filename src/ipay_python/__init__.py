@@ -1,3 +1,3 @@
-from ipay import IPayClient
+from .ipay import IPayClient
 
 __all__ = ('IPayClient', )
