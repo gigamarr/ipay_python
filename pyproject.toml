@@ -12,7 +12,7 @@ description = "Low-level wrapper over Bank of Georgia's payment gateway ipay."
 readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [
-    "Programming Langauge :: Python :: 3",
+    "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent"
 ]
